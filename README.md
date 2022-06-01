@@ -11,7 +11,7 @@ This game puts your memory to the test. You are presented with multiple images o
 
 3- Now that you’ve thought about the structure of your application, set up the folder structure and start creating the components. We suggest you use functional components and therefore hooks in this project.
 
-4- Style your application so you can show it off!
+4- change the style as you want
 
 
 #### Sample: [ 🃟 Play Now 🃟](https://xbdirisxk.github.io/memory-card/)
